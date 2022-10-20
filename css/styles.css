@@ -1,5 +1,6 @@
 .imgshrink {
-  border: 2 px solid gray;
+  margin: 3px;
+  border: 20px solid gray;
   padding: 2px;
   width: 20%;
   height: auto;
@@ -10,13 +11,4 @@
   font-size: x-large;
   font-family: Arial, Helvetica, sans-serif;
   color: darkgray;
-  background-color: blue;
-}
 
-body {
-  background-color: lightgrey;
-}
-
-h1 {
-  background-color: blue;
-}
