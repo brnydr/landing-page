@@ -19,6 +19,8 @@
 * Click on the "index.html" file (this should open the site in your preferred browser)
 * Enjoy the content!
 
+## GitHub Pages
+* [Portfolio Landing Page](https://brianwilliamyoder.github.io/landing-page/)
 
 ## Known Bugs
 
