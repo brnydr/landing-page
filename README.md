@@ -26,6 +26,6 @@
 
 ## [License](https://mit-license.org/)
 
-_If there are any issues found with the site, feel free to contact me at [brianyoder@gmail.com](brianyoder@gmail.com)
+_If there are any issues found with the site, feel free to contact me at_ [brianyoder@gmail.com](brianyoder@gmail.com)
 
 Copyright (c) _2022_ _Brian Yoder_
