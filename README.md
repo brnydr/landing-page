@@ -22,7 +22,7 @@
 
 ## Known Bugs
 
-* No known issues (yet!)
+* Profile image not aligned to the right of "Brian Yoder" at top of page.
 
 ## [License](https://mit-license.org/)
 
