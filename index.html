@@ -3,24 +3,26 @@
 <head>
   <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
   <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+  <script src="js/scripts.js"></script>
   <title>Portfolio Landing Page</title>
 </head>
 
 <body>
-
+<button type="button" id="lightmode" name="lightmode">Light Mode</button>
+<button type="button" id="darkmode" name="darkmode">Dark Mode</button>
   <div class="container">
-    <div class="boxborders">
+    <div class="boxborders" id="nameAndImage">
       <h1><strong>Brian Yoder</strong><h1>
         <img src="img/ping.jpg" alt="pixel art of friends playing ping pong" class="imgshrink">
     </div>
     
-    <div class="boxborders">
+    <div class="boxborders" id="aboutMe">
       <h2><em>About Me</em></h2>
       <p>Hi everyone! My name is Brian Yoder and I'm studying web development with Epicodus. I currently live in Portland, and work in Salem where I coordinate a media center for the blind. This webpage will give you a little more information about who I am, and what I'm currently working on at Epicodus - if you have any questions or comments, my contact info can be found at the bottom of the page. Take care!</p>
     </div>
     
 
-    <div class="boxborders">
+    <div class="boxborders" id="projects">
       <h2><em>Projects</em></h2>
       <ul>
         <li><span class="ylwhlt"><a href="https://brianwilliamyoder.github.io/animal-shelter/">Animal Shelter</a>(made in collaboration with <a href="https://github.com/nsncowan">Noah Cowan</a>).</span></li>
@@ -29,12 +31,12 @@
       </ul>
     </div>
    
-    <div class="boxborders">
+    <div class="boxborders" id="background">
       <h2><em>Background</em></h2>
       <p>I've been working in Visually Impaired education for the last 8 years. I have an M.S. in Visually Impaired learning, and currently run the Oregon Textbook and Media Center for the Blind and Visually Impaired. My goals with learning to code center around making the internet, technology, and the built environment more accessible <em>and</em> functional for VI users.</p>
     </div>
 
-    <div class="boxborders">
+    <div class="boxborders" id="interests">
       <h2><em>Interests, hobbies, skills</em></h2>
       <ol>
         <li>Playing <a href="http://paddlepalaceclub.com/">Table Tennis!</a></li>
@@ -42,7 +44,6 @@
         <li><a href="http://www.chess.com">Chess!</a></li>
       </ol>
     </div>
-
     <p class="smallertext">You can contact me at <a href="mailto:brianyoder@gmail.com">brianyoder@gmail.com</a></p>
 
   </div>
